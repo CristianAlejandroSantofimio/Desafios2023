@@ -116,6 +116,7 @@ public class Dia2 {
         Colours(int maxValue) {
             this.maxValue = maxValue;
         }
+        //necesario para el push
     }
 }
 
